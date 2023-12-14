@@ -65,4 +65,4 @@ lentele = pd.DataFrame(new_movies_list)
 print(lentele)
 lentele.to_csv('baigiamasis1.csv', index=False)
 
-driver.quit()
+driver.quit()baigiamasis1.csv
