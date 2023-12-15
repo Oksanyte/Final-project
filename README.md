@@ -5,10 +5,10 @@ Baigiamasis darbas atliktas Oksanos Balčiūnaitės ir Giedrės Žalienės.
 
 Projekto tema "Kino filmų analizė".
 
-Pagrindinis šio projekto tikslas - sižinoti populiariausią kino filmų žanrą, 
+Pagrindinis šio projekto tikslas - sužinoti populiariausią kino filmų žanrą, 
 filmų pasiskirstymą pagal metus, sužinoti kitus statistinius duomenis,
 kaip kad ilgiausią ir trumpiausią kino filmą, vidutinius filmų reitingus ir pan.
-Nagrinėjami 7670 filmų, periode nuo 1900 metų iki 2021 metų. Kadangi periodas ilgas, 
+Nagrinėjami daugiau nei 7600 filmų, periode nuo 1900 metų iki 2021 metų. Kadangi periodas ilgas, 
 analizėje laikotarpį suskirstėme į dešimtmečius. 
 Šiam projektui atlikti naudojome Python ir CSV files, taip pat Pandas, Matplotlib, Selenium ir
 Numpy bibliotekas.
@@ -46,8 +46,6 @@ Funkcija "Filmų trukmių pasiskirstymas()" parodo, kad daugiausiai išleistų f
 
 _**Išvados**_
 
-Kino filmų analizė parodė, kad periode 1900 - 2021 populiariausias kino žanras yra "Drama", vidutinis įvertinimas yra 7, 
-trumpiausias sukurtas filmas analizuojamųjų sąraše yra 11 minučių,  ilgiausias - 1416 minučių, o vidutinė filmo trukmė 
-110 minučių, kuri labai neženkliai kito nuo pat 1910 metų. Daugiausiai filmų yra išleista 2000-ųjų metų
+Kino filmų analizė parodė, kad periode nuo 1900 metų iki 2021 metų populiariausias kino žanras yra "Drama", vidutinis filmų reitingas yra 7.0, trumpiausias sukurtas filmas analizuojamųjų sąraše yra 11 minučių trukmės,  ilgiausias - 1416 minučių, o vidutinė filmo trukmė 110 minučių, kuri labai neženkliai kito nuo pat 1910 metų. Daugiausiai filmų yra išleista 2000-ųjų metų
 pirmajame dešimtmetyje. Analizuojamame periode buvo iš viso 24 žanrai ir kiekvienam filmui buvo priskiriama
 ne daugiau kaip trys žanrai.
