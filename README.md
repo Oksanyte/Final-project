@@ -15,7 +15,7 @@ Numpy bibliotekas.
 
 **_main.py_**
 
-Informaciją gavome iš URL https://ww.imdb.com.list/ls503325184/ naudojant BeautifulSoup (bs4)
+Informaciją gavome iš URL https://www.imdb.com/list/ls503325184/ naudojant BeautifulSoup (bs4)
 biblioteką. Surinkome informaciją apie kino filmų pavadinimus, išleidimo metus, žanrus, reitingus ir trukmę.
 
 **_Analize.py_**
